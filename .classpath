@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="planners/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/planners"/>
+	<classpathentry kind="lib" path="enhsp-dist/enhsp.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/antlr-3.4-complete.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/fastutil-8.3.1.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/guava-26.0-jre.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/hppc-0.8.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/ia_math.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/jgrapht-core-1.3.0.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/JPddl_.jar"/>
+	<classpathentry kind="lib" path="enhsp-dist/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="enhsp.jar"/>
+	<classpathentry kind="lib" path="libs/antlr-3.4-complete.jar"/>
+	<classpathentry kind="lib" path="libs/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/fastutil-8.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/guava-26.0-jre.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/hppc-0.8.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/ia_math.jar"/>
+	<classpathentry kind="lib" path="libs/jgrapht-core-1.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/JPddl_.jar"/>
+	<classpathentry kind="lib" path="libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="out"/>
+</classpath>
